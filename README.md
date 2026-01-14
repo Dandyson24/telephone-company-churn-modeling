@@ -84,11 +84,11 @@ Customers paying higher monthly charges show a higher churn tendency, suggesting
 
 📸 Screenshot placeholder:
 
-![Monthly Charges vs Churn](images/monthly_charges_vs_churn.png)
+![Monthly Charges vs Churn](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/av_monthly_charges_by_churn.png)
 
-🤖 Model Performance
+### Model Performance
 
-The churn prediction model was built using logistic regression, chosen for its balance between performance and interpretability.
+The churn prediction model was built using logistic regression, and was chosen for its balance between performance and interpretability.
 
 📈 Key Metrics
 
