@@ -1,5 +1,6 @@
-# telephone-company-churn-modeling
+
 📉 Telco Customer Churn Analysis with Logistic Regression
+
 🔍 Project Summary
 
 Customer churn is one of the most expensive problems in subscription-based businesses. In this project, I explored a real-world telecommunications customer dataset to understand why customers leave and to build a predictive churn model using logistic regression.
