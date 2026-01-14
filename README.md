@@ -107,14 +107,16 @@ F1-score (Churn): ~57%
 
 ![Classification Report](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/classification_report.png?raw=true)
 
-🔎 Confusion Matrix
+####              Confusion Matrix
 
 The confusion matrix helps visualize correct and incorrect predictions.
 
-###                                              Key takeaways:
 While some churn cases are missed, the model provided valuable early signals that can guide retention strategies before customers leave.
 
 ![Confusion Matrix](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/confusion_matrix.png?raw=true)
+
+
+![ROC_AUC CURVE](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/confusion_matrix.png?raw=true)
 
 ####                    Feature Interpretation (Why Customers Churn)
 
@@ -140,7 +142,7 @@ Longer tenure
 
 This makes the model easy to explain to non-technical stakeholders.
 
-![Feature Coefficients](images/feature_coefficients.png)
+![Feature Coefficients](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/Features.png?raw=true)
 
 💡 Business Recommendations
 
