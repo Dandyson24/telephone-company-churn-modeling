@@ -56,23 +56,22 @@ Business-focused recommendations
 This workflow mirrors what would be expected in a real analytics or data science role.
 
 📊 Exploratory Data Analysis (EDA)
-🔹 Churn Distribution
+
+### Churn Distribution
 
 This visualization shows the proportion of customers who churned versus those who stayed.
 
 What it shows:
 The dataset is moderately imbalanced, with more customers staying than leaving. This reinforces the need to look beyond accuracy when evaluating the model.
 
-![Churn Pie Chart](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/29e4f9cf0772012f340d89e556bce14262b4f97d/churn_pie_chart.png)
+![Churn Pie Chart](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/churn_pie_chart.png?raw=true)
 
-🔹 Tenure and Churn
+### Tenure and Churn
 
 This chart compares customer tenure for churned and non-churned customers.
 
 Insight:
 Customers with shorter tenure are significantly more likely to churn, highlighting the importance of early customer engagement and onboarding.
-
-📸 Screenshot placeholder:
 
 ![Tenure vs Churn](images/tenure_vs_churn.png)
 
