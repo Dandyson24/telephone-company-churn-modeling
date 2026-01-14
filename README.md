@@ -62,7 +62,7 @@ This visualization shows the proportion of customers who churned versus those wh
 What it shows:
 The dataset is moderately imbalanced, with more customers staying than leaving. This reinforces the need to look beyond accuracy when evaluating the model.
 
-![Churn Distribution]("C:\Users\Andrew Okebugwu.LPT14-AOKEBUGWU\Documents\Python stuffs\AAA 2025 ML PROJECTS\CUSTOMERS CHURN\churn_pie_chart.png")
+![Churn Distribution](<img width="1980" height="1499" alt="Image" src="https://github.com/user-attachments/assets/a9d67c56-4af5-441f-accc-4bb6948e3a72" />)
 
 🔹 Tenure and Churn
 
