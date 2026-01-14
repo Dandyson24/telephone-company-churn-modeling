@@ -62,7 +62,7 @@ This visualization shows the proportion of customers who churned versus those wh
 What it shows:
 The dataset is moderately imbalanced, with more customers staying than leaving. This reinforces the need to look beyond accuracy when evaluating the model.
 
-![Churn Distribution](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/churn_pie_chart.png)
+![image alt](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/churn_pie_chart.png)
 🔹 Tenure and Churn
 
 This chart compares customer tenure for churned and non-churned customers.
