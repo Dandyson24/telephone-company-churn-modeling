@@ -1,25 +1,25 @@
 
 📉 Telco Customer Churn Analysis with Logistic Regression
 
-🔍 Project Summary
+####                                    Project Summary
 
 Customer churn is one of the most expensive problems in subscription-based businesses. In this project, I explored a real-world telecommunications customer dataset to understand why customers leave and to build a predictive churn model using logistic regression.
 
 Rather than focusing only on model accuracy, this project emphasizes:
 
-Interpretability
+- Interpretability
 
-Business relevance
+- Business relevance
 
-Actionable insights
+- Actionable insights
 
 The goal is to demonstrate how data science can support real business decisions, not just generate predictions.
 
-🎯 Business Objective
+####                                       Business Objective
 
 To identify customers who are at risk of churning and uncover the key factors influencing churn, so the business can take proactive retention actions instead of reacting after customers leave.
 
-📁 Dataset Overview
+####                                        Dataset Overview
 
 The dataset contains customer-level information including:
 
@@ -35,7 +35,7 @@ Target Variable:
 
 Churn (Yes / No)
 
-🧠 Approach & Methodology
+####                                      Approach & Methodology
 
 Data cleaning and preprocessing
 
@@ -53,11 +53,10 @@ Interpretation of model coefficients
 
 Business-focused recommendations
 
-This workflow mirrors what would be expected in a real analytics or data science role.
 
-📊 Exploratory Data Analysis (EDA)
+###                                              Exploratory Data Analysis (EDA)
 
-### Churn Distribution
+#### Churn Distribution
 
 This visualization shows the proportion of customers who churned versus those who stayed.
 
@@ -82,8 +81,6 @@ This visualization explores the relationship between monthly charges and churn.
 Insight:
 Customers paying higher monthly charges show a higher churn tendency, suggesting price sensitivity and perceived value concerns.
 
-📸 Screenshot placeholder:
-
 ![Monthly Charges vs Churn](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/av_monthly_charges_by_churn.png)
 
 ### Model Performance
@@ -100,13 +97,13 @@ Recall (Churn): ~52%
 
 F1-score (Churn): ~57%
 
-📌 Interpretation:
+####                                  Interpretation:
 
-The model performs strongly in identifying customers who will not churn.
+- The model performs strongly in identifying customers who will not churn.
 
-Recall for churn is moderate, which is common in churn problems.
+- Recall for churn is moderate, which is common in churn problems.
 
-The model is suitable for risk scoring and targeted retention, especially when combined with business rules.
+- The model is suitable for risk scoring and targeted retention, especially when combined with business rules.
 
 ![Classification Report](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/classification_report.png?raw=true)
 
@@ -114,16 +111,16 @@ The model is suitable for risk scoring and targeted retention, especially when c
 
 The confusion matrix helps visualize correct and incorrect predictions.
 
-### Key takeaways:
-While some churn cases are missed, the model provides valuable early signals that can guide retention strategies before customers leave.
+###                                              Key takeaways:
+While some churn cases are missed, the model provided valuable early signals that can guide retention strategies before customers leave.
 
 ![Confusion Matrix](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/confusion_matrix.png?raw=true)
 
-🔍 Feature Interpretation (Why Customers Churn)
+####                    Feature Interpretation (Why Customers Churn)
 
 One advantage of logistic regression is transparency. By analyzing model coefficients, we can see which features influence churn.
 
-📌 Factors Increasing Churn Risk
+  **Factors Increasing Churn Risk**
 
 Month-to-month contracts
 
@@ -133,7 +130,7 @@ Higher monthly charges
 
 Lack of add-on services
 
-📌 Factors Reducing Churn Risk
+**Factors Reducing Churn Risk**
 
 Long-term contracts
 
@@ -142,8 +139,6 @@ Tech support and online security
 Longer tenure
 
 This makes the model easy to explain to non-technical stakeholders.
-
-📸 Screenshot placeholder:
 
 ![Feature Coefficients](images/feature_coefficients.png)
 
