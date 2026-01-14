@@ -108,18 +108,14 @@ Recall for churn is moderate, which is common in churn problems.
 
 The model is suitable for risk scoring and targeted retention, especially when combined with business rules.
 
-📸 Screenshot placeholder:
-
-![Classification Report](images/classification_report.png)
+![Classification Report](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/classification_report.png?raw=true)
 
 🔎 Confusion Matrix
 
 The confusion matrix helps visualize correct and incorrect predictions.
 
-Key takeaway:
+### Key takeaways:
 While some churn cases are missed, the model provides valuable early signals that can guide retention strategies before customers leave.
-
-📸 Screenshot placeholder:
 
 ![Confusion Matrix](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/confusion_matrix.png?raw=true)
 
