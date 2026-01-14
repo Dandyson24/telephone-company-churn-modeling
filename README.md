@@ -166,11 +166,6 @@ Matplotlib / Seaborn
 
 Jupyter Notebook
 
-🔗 Project Links
-
-GitHub Repository: https://github.com/your-github-username
-
-LinkedIn: https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd-6b429617/
 
 ####                Next Steps
 
@@ -181,3 +176,6 @@ LinkedIn: https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd-
 - Deploy churn scoring for real-time retention use
 
 - Build an interactive Power BI dashboard
+
+**Author**: Andrew Nwachimere-eze Okebugwu
+LinkedIn: https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd-6b429617/
