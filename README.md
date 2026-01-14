@@ -115,8 +115,8 @@ While some churn cases are missed, the model provided valuable early signals tha
 
 ![Confusion Matrix](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/confusion_matrix.png?raw=true)
 
-
-![ROC_AUC CURVE](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/confusion_matrix.png?raw=true)
+####  ROC Evaluation
+![ROC_AUC CURVE](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/roc_curve.png?raw=true)
 
 ####                    Feature Interpretation (Why Customers Churn)
 
@@ -144,7 +144,7 @@ This makes the model easy to explain to non-technical stakeholders.
 
 ![Feature Coefficients](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/Features.png?raw=true)
 
-💡 Business Recommendations
+####                  Business Recommendations
 
 Strengthen engagement during the first few months of customer tenure
 
@@ -154,7 +154,7 @@ Introduce loyalty pricing or bundled offers for high-risk customers
 
 Promote value-added services such as tech support
 
-🛠 Tools & Technologies
+####                  Tools & Technologies
 
 Python
 
@@ -170,14 +170,14 @@ Jupyter Notebook
 
 GitHub Repository: https://github.com/your-github-username
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-handle
+LinkedIn: https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd-6b429617/
 
-🚀 Next Steps
+####                Next Steps
 
-Test tree-based models for improved churn recall
+- Test tree-based models for improved churn recall
 
-Tune classification thresholds
+- Continue tuning classification thresholds to improve accuracy
 
-Deploy churn scoring for real-time retention use
+- Deploy churn scoring for real-time retention use
 
-Build an interactive Power BI dashboard
+- Build an interactive Power BI dashboard
