@@ -121,7 +121,7 @@ While some churn cases are missed, the model provides valuable early signals tha
 
 📸 Screenshot placeholder:
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/confusion_matrix.png?raw=true)
 
 🔍 Feature Interpretation (Why Customers Churn)
 
