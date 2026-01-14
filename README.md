@@ -73,9 +73,9 @@ This chart compares customer tenure for churned and non-churned customers.
 Insight:
 Customers with shorter tenure are significantly more likely to churn, highlighting the importance of early customer engagement and onboarding.
 
-![Tenure vs Churn](images/tenure_vs_churn.png)
+![Tenure vs Churn](https://github.com/Dandyson24/telephone-company-churn-modeling/blob/main/mean_tenure_by_churn.png?raw=true)
 
-🔹 Monthly Charges and Churn
+### Monthly Charges and Churn
 
 This visualization explores the relationship between monthly charges and churn.
 
